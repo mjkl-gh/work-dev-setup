@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-01-26T20:19:27.671-00:00",
+	"CreationDate" : "2022-03-29T09:33:20.615-00:00",
 	"Sources" : 
 	[
 		{
@@ -19,6 +19,9 @@
 					"PackageIdentifier" : "OpenWhisperSystems.Signal"
 				},
 				{
+					"PackageIdentifier" : "angryziber.AngryIPScanner"
+				},
+				{
 					"PackageIdentifier" : "AnyDeskSoftwareGmbH.AnyDesk"
 				},
 				{
@@ -34,10 +37,10 @@
 					"PackageIdentifier" : "Git.Git"
 				},
 				{
-					"PackageIdentifier" : "Google.Chrome"
+					"PackageIdentifier" : "SourceFoundry.HackFonts"
 				},
 				{
-					"PackageIdentifier" : "SourceFoundry.HackFonts"
+					"PackageIdentifier" : "Logitech.UnifyingSoftware"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge"
@@ -55,7 +58,13 @@
 					"PackageIdentifier" : "Microsoft.OneDrive"
 				},
 				{
+					"PackageIdentifier" : "Plex.Plex"
+				},
+				{
 					"PackageIdentifier" : "Spotify.Spotify"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Teams"
@@ -73,6 +82,9 @@
 					"PackageIdentifier" : "Axosoft.GitKraken"
 				},
 				{
+					"PackageIdentifier" : "smartmontools.smartmontools"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VC++2013Redist-x64"
 				},
 				{
@@ -85,7 +97,7 @@
 					"PackageIdentifier" : "Microsoft.VC++2008Redist-x86"
 				},
 				{
-					"PackageIdentifier" : "Oracle.JavaRuntimeEnvironment"
+					"PackageIdentifier" : "Microsoft.dotnetRuntime.5-x64"
 				},
 				{
 					"PackageIdentifier" : "WireGuard.WireGuard"
@@ -94,10 +106,10 @@
 					"PackageIdentifier" : "Microsoft.VC++2012Redist-x86"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsSDK"
+					"PackageIdentifier" : "GlavSoft.TightVNC"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.PowerToys"
+					"PackageIdentifier" : "Microsoft.WindowsSDK"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2015-2022Redist-x86"
@@ -115,19 +127,34 @@
 					"PackageIdentifier" : "Microsoft.VC++2013Redist-x86"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.dotnetRuntime.3-x64"
+					"PackageIdentifier" : "Microsoft.VC++2005Redist-x86"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2005Redist-x86"
+					"PackageIdentifier" : "Microsoft.Teams"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
+				},
+				{
+					"PackageIdentifier" : "RedHat.VirtViewer"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VC++2008Redist-x86"
 				},
 				{
+					"PackageIdentifier" : "Google.Chrome"
+				},
+				{
 					"PackageIdentifier" : "OpenJS.NodeJS.LTS"
+				},
+				{
+					"PackageIdentifier" : "Canonical.Juju"
+				},
+				{
+					"PackageIdentifier" : "RealVNC.VNCViewer"
 				},
 				{
 					"PackageIdentifier" : "TrackerSoftware.PDF-XChangePRO"
@@ -145,7 +172,13 @@
 					"PackageIdentifier" : "Python.Python.3"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.dotnetRuntime.3-x86"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VC++2012Redist-x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.dotnetRuntime.3-x64"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2013Redist-x64"
@@ -163,5 +196,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.1.13405"
+	"WinGetVersion" : "1.2.10271"
 }
