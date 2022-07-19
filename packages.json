@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-06-08T10:22:37.018-00:00",
+	"CreationDate" : "2022-07-19T15:29:48.301-00:00",
 	"Sources" : 
 	[
 		{
@@ -22,10 +22,10 @@
 					"PackageIdentifier" : "angryziber.AngryIPScanner"
 				},
 				{
-					"PackageIdentifier" : "AnyDeskSoftwareGmbH.AnyDesk"
+					"PackageIdentifier" : "Canonical.Ubuntu"
 				},
 				{
-					"PackageIdentifier" : "Canonical.Ubuntu"
+					"PackageIdentifier" : "DiskInternals.LinuxReader"
 				},
 				{
 					"PackageIdentifier" : "da2x.EdgeDeflector"
@@ -64,19 +64,16 @@
 					"PackageIdentifier" : "RaspberryPiFoundation.RaspberryPiImager"
 				},
 				{
+					"PackageIdentifier" : "KurtisLiggett.SimpleIPConfig"
+				},
+				{
 					"PackageIdentifier" : "Spotify.Spotify"
 				},
 				{
 					"PackageIdentifier" : "Valve.Steam"
 				},
 				{
-					"PackageIdentifier" : "tailscale.tailscale"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.Teams"
-				},
-				{
-					"PackageIdentifier" : "TeraTermProject.teraterm"
 				},
 				{
 					"PackageIdentifier" : "JAMSoftware.TreeSize"
@@ -94,16 +91,7 @@
 					"PackageIdentifier" : "Axosoft.GitKraken"
 				},
 				{
-					"PackageIdentifier" : "smartmontools.smartmontools"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VC++2013Redist-x64"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
 				},
 				{
 					"PackageIdentifier" : "Ookla.Speedtest"
@@ -121,10 +109,19 @@
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.5"
 				},
 				{
+					"PackageIdentifier" : "Oracle.JavaRuntimeEnvironment"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
+				},
+				{
 					"PackageIdentifier" : "Google.Chrome"
 				},
 				{
 					"PackageIdentifier" : "WireGuard.WireGuard"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2015-2022Redist-x64"
@@ -133,7 +130,13 @@
 					"PackageIdentifier" : "Microsoft.VC++2012Redist-x86"
 				},
 				{
+					"PackageIdentifier" : "Olivia.VIA"
+				},
+				{
 					"PackageIdentifier" : "GlavSoft.TightVNC"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsSDK"
@@ -148,9 +151,6 @@
 					"PackageIdentifier" : "Microsoft.VC++2008Redist-x64"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
-				},
-				{
 					"PackageIdentifier" : "OpenJS.NodeJS.LTS"
 				},
 				{
@@ -161,9 +161,6 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2015-2022Redist-x86"
@@ -184,16 +181,19 @@
 					"PackageIdentifier" : "Canonical.Juju"
 				},
 				{
-					"PackageIdentifier" : "RealVNC.VNCViewer"
+					"PackageIdentifier" : "Microsoft.VC++2008Redist-x64"
 				},
 				{
-					"PackageIdentifier" : "PassmarkSoftware.OSFMount"
+					"PackageIdentifier" : "RealVNC.VNCViewer"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2010Redist-x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2005Redist-x64"
@@ -211,5 +211,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.2.10941"
+	"WinGetVersion" : "1.2.11601"
 }
