@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-07-19T15:29:48.301-00:00",
+	"CreationDate" : "2022-09-30T14:49:15.015-00:00",
 	"Sources" : 
 	[
 		{
@@ -19,16 +19,13 @@
 					"PackageIdentifier" : "OpenWhisperSystems.Signal"
 				},
 				{
-					"PackageIdentifier" : "angryziber.AngryIPScanner"
-				},
-				{
 					"PackageIdentifier" : "Canonical.Ubuntu"
 				},
 				{
-					"PackageIdentifier" : "DiskInternals.LinuxReader"
+					"PackageIdentifier" : "DelugeTeam.Deluge"
 				},
 				{
-					"PackageIdentifier" : "da2x.EdgeDeflector"
+					"PackageIdentifier" : "Docker.DockerDesktop"
 				},
 				{
 					"PackageIdentifier" : "GIMP.GIMP"
@@ -73,6 +70,9 @@
 					"PackageIdentifier" : "Valve.Steam"
 				},
 				{
+					"PackageIdentifier" : "TeamViewer.TeamViewer.Host"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.Teams"
 				},
 				{
@@ -91,6 +91,9 @@
 					"PackageIdentifier" : "Axosoft.GitKraken"
 				},
 				{
+					"PackageIdentifier" : "smartmontools.smartmontools"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VC++2013Redist-x64"
 				},
 				{
@@ -100,19 +103,7 @@
 					"PackageIdentifier" : "Microsoft.VC++2010Redist-x64"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2008Redist-x86"
-				},
-				{
-					"PackageIdentifier" : "Python.Python.3"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.5"
-				},
-				{
 					"PackageIdentifier" : "Oracle.JavaRuntimeEnvironment"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome"
@@ -136,9 +127,6 @@
 					"PackageIdentifier" : "GlavSoft.TightVNC"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.WindowsSDK"
 				},
 				{
@@ -148,13 +136,16 @@
 					"PackageIdentifier" : "TeamViewer.TeamViewer"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2008Redist-x64"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
 				},
 				{
 					"PackageIdentifier" : "OpenJS.NodeJS.LTS"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2005Redist-x86"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2005.x86"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Teams"
@@ -166,37 +157,31 @@
 					"PackageIdentifier" : "Microsoft.VC++2015-2022Redist-x86"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
+				},
+				{
 					"PackageIdentifier" : "Inkscape.Inkscape"
 				},
 				{
 					"PackageIdentifier" : "RedHat.VirtViewer"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2008Redist-x86"
+					"PackageIdentifier" : "Microsoft.SQLServer2012NativeClient"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2013Redist-x86"
 				},
 				{
-					"PackageIdentifier" : "Canonical.Juju"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VC++2008Redist-x64"
-				},
-				{
-					"PackageIdentifier" : "RealVNC.VNCViewer"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "SerialLab.SerialLab"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2010Redist-x86"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VC++2005Redist-x64"
+					"PackageIdentifier" : "TrackerSoftware.PDF-XChangePRO"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2012Redist-x64"
@@ -204,12 +189,12 @@
 			],
 			"SourceDetails" : 
 			{
-				"Argument" : "https://winget.azureedge.net/cache",
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
 				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
 				"Name" : "winget",
 				"Type" : "Microsoft.PreIndexed.Package"
 			}
 		}
 	],
-	"WinGetVersion" : "1.2.11601"
+	"WinGetVersion" : "1.3.2091"
 }

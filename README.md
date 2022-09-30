@@ -1,6 +1,6 @@
 # work-dev-setup
 My (automated) install for development at my day job
-version: 3
+version: 4
 
 
 ## Setup <a name = "setup"></a>
